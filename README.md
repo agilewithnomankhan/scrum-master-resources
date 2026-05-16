@@ -2,7 +2,7 @@
 
 ## Agile Leader | Scrum Master | Delivery Excellence
 
-- 13+ years experience in BFSI domain
+- 14+ years experience in BFSI domain
 - Scrum Master & Agile Transformation Specialist
 - Expertise in Jira, Agile Metrics, Sprint Delivery
 - Passionate about Agile Coaching and Team Enablement
